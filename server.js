@@ -3,7 +3,7 @@ const app = express();
 const port = process.env.PORT || 9000;
 const cors = require("cors");
 
-const fullname = "Hello API ,Siwakorn Banluesapy";
+const fullname = "65130923 Sunthanath Poukachamnan-api";
 //  data
 const products = [
   {
